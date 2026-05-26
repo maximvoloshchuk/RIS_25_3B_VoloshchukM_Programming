@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\maksv\Desktop\Лаб№9\Лаб №9\FileName.cpp(72,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Лаб №9.vcxproj -> C:\Users\maksv\Desktop\Лаб№9\Лаб №9\x64\Debug\Лаб №9.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
